@@ -2,7 +2,7 @@
 // Database configuration for XAMPP
 $dbHost = 'localhost';
 $dbUser = 'root';
-$dbPass = '';
+$dbPass = 'root';
 $dbName = 'weather_app';
 
 // Establish database connection
